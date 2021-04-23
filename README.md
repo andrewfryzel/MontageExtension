@@ -24,7 +24,7 @@ Coding can be done with any text editor, we are going to use Visual Studio Code.
 
 ### **Step 1**
 
-Clone the remote repository on gitlab (repository located below, also included are the clone commands to be run with git): 
+Clone the remote repository on gitlab (repository located below, also included are the clone commands to be run with git) or download the MontageExtenstion.zip and extract the files: 
 https://capstone-cs.eng.utah.edu/montage/montage-project
 
 SSH Clone:
