@@ -18,7 +18,8 @@ Montage is an Adobe Premiere extension created to streamline the editing process
 # Extension and Installation
 
 Coding can be done with any text editor, we are going to use Visual Studio Code, to code with but really any text editor will work.
-Step 1
+
+**Step 1**
 Clone the remote repository on gitlab (repository located below, also included are the clone commands to be run with git): 
 https://capstone-cs.eng.utah.edu/montage/montage-project
 
@@ -31,6 +32,7 @@ HTTPS Clone:
 https://capstone-cs.eng.utah.edu/montage/montage-project.git
 
 As a note these can be cloned anywhere on  your computer that you want, except for the path in step 3, as an adobe extension does not like .git file types and as a result will not recognize it as an extension.
+
 Step 2
 On windows go to search either using the windows button or clicking in the left hand corner, and search for “Registry Editor” once there go to:
 
